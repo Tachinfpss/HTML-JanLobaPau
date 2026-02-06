@@ -1,6 +1,4 @@
-# HTML-JanLobaPau
-All Web Code
-# HTML-JanLobaPau
+# HTML-SMX2-JanLobaPau
 <h1 align="center">Hey I'm On GitHub!!</h1>
 
 ###
